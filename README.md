@@ -1,4 +1,4 @@
-# World Layoffs (2022+) — SQL Data Cleaning Project
+# World Layoffs (2022+) - SQL Data Cleaning Project
 
 This project cleans the Kaggle **Layoffs 2022** dataset using SQL (MySQL syntax).  
 It follows a typical data-cleaning workflow: **staging → de-duplication → standardization → null handling → remove unusable rows**.
